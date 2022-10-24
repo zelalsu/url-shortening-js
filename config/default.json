@@ -1,0 +1,5 @@
+{
+  "mongodbUrl": "mongodb+srv://zelalsu:13611514@zelalsu.9h52yhp.mongodb.net",
+  "port": 3005,
+  "baseUrl": "http://localhost:3005"
+}
